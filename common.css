@@ -1,0 +1,60 @@
+* {
+    color: rgb(0, 255, 0);
+    background-color: black;
+    font-family: 'Roboto Mono', monospace;
+}
+
+#TABLE {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p {
+    padding: 0px;
+    margin: 0px;
+}
+tr, td {
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+#r1c1 {
+    width: 7%;
+}
+#r1c2 {
+    width: 15%;
+}
+#r1c3 {
+    width: 56%;
+}
+#r1c4 {
+    width: 15%;
+}
+#r1c5 {
+    width: 7%;
+}
+
+.col1s {
+    border-right: rgb(0, 255, 0) solid 1px;
+    text-align: right;
+}
+.col2s {
+    text-align: left;
+}
+.col3s {
+    text-align: center;
+}
+.col4s {
+    text-align: right;
+}
+.col5s {
+    border-left: rgb(0, 255, 0) solid 1px;
+    text-align: left;
+}
+
+#PAGETITLE {
+    font-weight: bold;
+}
+#TIME {
+    font-style: italic;
+}
